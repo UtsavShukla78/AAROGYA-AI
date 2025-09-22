@@ -1,2 +1,2 @@
 # AAROGYA-AI
-This is a ai chatbot.
+This is an AI chatbot.
